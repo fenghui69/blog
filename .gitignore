@@ -1,0 +1,12 @@
+# 通用配置
+dist/
+node_modules/
+npm-debug.log
+*.log
+*.tmp
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.user
+
